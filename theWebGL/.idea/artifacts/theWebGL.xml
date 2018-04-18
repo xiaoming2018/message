@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="theWebGL">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="theWebGL.ear">
+      <element id="archive" name="archive.war">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
