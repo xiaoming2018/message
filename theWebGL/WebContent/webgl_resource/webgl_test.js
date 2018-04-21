@@ -31,8 +31,8 @@ function initrenderer() {
         antialias: true
     });
     renderer.setSize(width, height);
-    renderer.setClearColor(0xb9d3ff,1);//设置背景颜色
-    renderer.shadowMap.Enabled = true;    // 告诉渲染器需要
+    renderer.setClearColor(0xb9d3ff, 1);//设置背景颜色
+    renderer.shadowMap.enabled = true;    // 告诉渲染器需要
     //document.getElementById('canvas-frame').appendChild(renderer.domElement);
 }
 
@@ -52,10 +52,11 @@ function initObject() {
         object.traverse(function (child) {
             if (child instanceof THREE.Mesh) {
                 child.material.map = texture;
-                child.position.set(0,-0.8,0);
+                child.position.set(0, -0.8, 0);
             }
         });
         object.castShadow = true;  // 模型也产生阴影
+        object.receiveShadow = true;
         scene.add(object);//将导入的模型添加到场景
     });
 }
@@ -66,6 +67,7 @@ var light;
 function initLight() {
     light = new THREE.AmbientLight(0xFFFFFF);
     light.position.set(10, 10, 10);
+    light.castShadow = true;
     scene.add(light);
 }
 
@@ -88,7 +90,6 @@ function initControls() {
 }
 
 function start() {
-    debugger;
     initscene();
     initCamera();
     initrenderer();
@@ -99,3 +100,4 @@ function start() {
     document.getElementById('canvas-frame').appendChild(renderer.domElement);
 
 }
+

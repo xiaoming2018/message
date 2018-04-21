@@ -12,7 +12,7 @@ import java.sql.SQLException;
 public class DBConn {
 	
 	private static final String CLASS_NAME = "com.mysql.jdbc.Driver";	
-	private static final String CONN_STRING = "jdbc:mysql://localhost:3306/webgl";
+	private static final String CONN_STRING = "jdbc:mysql://localhost:3306/thewebgl";
 	private static final String USER = "root";
 	private static final String PASS = "123456";
 	
