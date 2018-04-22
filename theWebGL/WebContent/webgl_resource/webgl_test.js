@@ -30,7 +30,7 @@ function initrenderer() {
         antialias: true
     });
     renderer.setSize(width, height);
-    renderer.setClearColor(0xb9d3ff, 1);//设置背景颜色(淡蓝色)
+    //renderer.setClearColor(0xb9d3ff, 1);//设置背景颜色(淡蓝色)
     renderer.setClearColor(0xffffff, 1);//设置背景颜色
     renderer.shadowMap.enabled = true;    // 告诉渲染器需要
     renderer.shadowMapSoft = true; // 软阴影
