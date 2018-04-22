@@ -6,12 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40cbb609-05ac-4bc8-8864-e3615800be1a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+    <list default="true" id="40cbb609-05ac-4bc8-8864-e3615800be1a" name="Default" comment="bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/theWebGL_Web_exploded/WEB-INF/web.xml/webgl_resource/webgl_test.js" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_Web_exploded/WEB-INF/web.xml/webgl_resource/webgl_test.js" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/theWebGL_Web_exploded/webgl_resource/webgl_test.js" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_Web_exploded/webgl_resource/webgl_test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -977,7 +973,7 @@
       <workItem from="1524213250038" duration="1347000" />
       <workItem from="1524226957978" duration="1008000" />
       <workItem from="1524393906749" duration="3756000" />
-      <workItem from="1524404038349" duration="761000" />
+      <workItem from="1524404038349" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="bug">
       <created>1524406861579</created>
@@ -986,11 +982,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524406861579</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bug">
+      <created>1524406883463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524406883463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121978000" />
+    <option name="totallyTimeSpent" value="121995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
