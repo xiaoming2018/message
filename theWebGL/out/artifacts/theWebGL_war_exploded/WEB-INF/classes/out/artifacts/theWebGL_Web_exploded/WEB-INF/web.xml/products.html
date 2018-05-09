@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TheWebGL</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content="Best Store"/>
+    <script type="application/x-javascript">
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <link href="resource/css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="resource/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+    <script src="resource/js/jquery.min.js"></script>
+    <!-- cart -->
+    <script src="resource/js/simpleCart.min.js"></script>
+    <!-- for bootstrap working -->
+    <script type="text/javascript" src="resource/js/bootstrap-3.1.1.min.js"></script>
+    <!-- //for bootstrap working -->
+    <link href='resource/css/font.css' rel='stylesheet' type='text/css'>
+    <link href='resource/css/font1.css' rel='stylesheet' type='text/css'>
+    <!-- timer -->
+    <link rel="stylesheet" href="resource/css/jquery.countdown.css"/>
+    <!-- //timer -->
+    <!-- animation-effect -->
+    <link href="resource/css/animate.min.css" rel="stylesheet">
+    <script src="resource/js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+</head>
+
+<body>
+<!-- header -->
+<div class="header">
+    <div class="container">
+        <div class="header-grid">
+            <div class="header-grid-left animated wow slideInLeft" data-wow-delay=".5s">
+                <ul>
+                    <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mail.html">邮箱</a></li>
+                    <li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+1234 567 890</li>
+                    <li><i class="glyphicon glyphicon-log-in" aria-hidden="true"></i><a href="login.html">登陆</a></li>
+                    <li><i class="glyphicon glyphicon-book" aria-hidden="true"></i><a href="register.html">注册</a></li>
+                </ul>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="logo-nav">
+            <div class="logo-nav-left animated wow zoomIn" data-wow-delay=".5s">
+                <h1><a href="index.html">Best Store <span>Shop anywhere</span></a></h1>
+            </div>
+            <div class="logo-nav-left1">
+                <nav class="navbar navbar-default">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header nav_2">
+                        <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse"
+                                data-target="#bs-megadropdown-tabs">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="index.html" class="act">主页</a></li>
+                            <!-- Mega Menu -->
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">商品<b class="caret"></b></a>
+                                <ul class="dropdown-menu multi-column columns-3">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>男士</h6>
+                                                <li><a href="products.html">服装</a></li>
+                                                <li><a href="products.html">钱包</a></li>
+                                                <li><a href="products.html">鞋子</a></li>
+                                                <li><a href="products.html">腕表</a></li>
+                                                <li><a href="products.html">饰品</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>女士</h6>
+                                                <li><a href="products.html">服装</a></li>
+                                                <li><a href="products.html">钱包</a></li>
+                                                <li><a href="products.html">鞋子</a></li>
+                                                <li><a href="products.html">腕表</a></li>
+                                                <li><a href="products.html">饰品</a></li>
+                                                <li><a href="products.html">珠宝</a></li>
+                                                <li><a href="products.html">美容、护理</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>儿童</h6>
+                                                <li><a href="products.html">家庭风</a></li>
+                                                <li><a href="products.html">男生服饰</a></li>
+                                                <li><a href="products.html">女生服饰</a></li>
+                                                <li><a href="products.html">鞋子</a></li>
+                                                <li><a href="products.html">名牌店</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">家具<b class="caret"></b></a>
+                                <ul class="dropdown-menu multi-column columns-3">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>家装家具</h6>
+                                                <li><a href="furniture.html">炊具</a></li>
+                                                <li><a href="furniture.html">沙发</a></li>
+                                                <li><a href="furniture.html">餐桌</a></li>
+                                                <li><a href="furniture.html">鞋柜</a></li>
+                                                <li><a href="furniture.html">家居服饰</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>办公室家具</h6>
+                                                <li><a href="furniture.html">地毯</a></li>
+                                                <li><a href="furniture.html">办公桌</a></li>
+                                                <li><a href="furniture.html">沙发</a></li>
+                                                <li><a href="furniture.html">鞋柜</a></li>
+                                                <li><a href="furniture.html">插座</a></li>
+                                                <li><a href="furniture.html">电动装备</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>装饰</h6>
+                                                <li><a href="furniture.html">玩具</a></li>
+                                                <li><a href="furniture.html">壁钟</a></li>
+                                                <li><a href="furniture.html">灯具</a></li>
+                                                <li><a href="furniture.html">品牌商店</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </ul>
+                            </li>
+                            <li><a href="mail.html">联系我们</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div class="logo-nav-right">
+                <div class="search-box">
+                    <div id="sb-search" class="sb-search">
+                        <form>
+                            <input class="sb-search-input" placeholder="输入关键词..." type="search" id="search">
+                            <input class="sb-search-submit" type="submit" value="">
+                            <span class="sb-icon-search"> </span>
+                        </form>
+                    </div>
+                </div>
+                <!-- search-scripts -->
+                <script src="resource/js/classie.js"></script>
+                <script src="resource/js/uisearch.js"></script>
+                <script>
+                    new UISearch(document.getElementById('sb-search'));
+                </script>
+                <!-- //search-scripts -->
+            </div>
+            <div class="header-right">
+                <div class="cart box_1">
+                    <a href="checkout.html">
+                        <h3>
+                            <div class="total">
+                                <!--<span class="simpleCart_total"></span> -->
+                                (<span id="simpleCart_quantity" class="simpleCart_quantity"></span> 件)
+                            </div>
+                            <img src="resource/images/bag.png" alt=""/>
+                        </h3>
+                    </a>
+                    <p><a href="javascript:;" class="simpleCart_empty">清空购物车</a></p>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!-- //header -->
+<!-- breadcrumbs -->
+<div class="breadcrumbs">
+    <div class="container">
+        <ol class="breadcrumb breadcrumb1 animated wow slideInLeft" data-wow-delay=".5s">
+            <li><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>主页</a></li>
+            <li class="active">商品</li>
+        </ol>
+    </div>
+</div>
+<div class="products">
+    <div class="container">
+        <div class="col-md-4 products-left">
+            <div class="filter-price animated wow slideInUp" data-wow-delay=".5s">
+                <h3>通过价格筛选</h3>
+                <ul class="dropdown-menu1">
+                    <li><a href="">
+                        <div id="slider-range"></div>
+                        <input type="text" id="amount" style="border: 0"/>
+                    </a></li>
+                </ul>
+                <script type='text/javascript'>//<![CDATA[
+                $(window).load(function () {
+                    $("#slider-range").slider({
+                        range: true,
+                        min: 0,
+                        max: 1000,
+                        values: [100, 2000],
+                        slide: function (event, ui) {
+                            $("#amount").val("￥" + ui.values[0] + " - ￥" + ui.values[1]);
+                        }
+                    });
+                    $("#amount").val("￥" + $("#slider-range").slider("values", 0) + " - ￥" + $("#slider-range").slider("values", 1));
+
+
+                });//]]>
+                </script>
+                <script type="text/javascript" src="resource/js/jquery-ui.min.js"></script>
+                <!---->
+            </div>
+            <div class="categories animated wow slideInUp" data-wow-delay=".5s">
+                <h3>类别</h3>
+                <ul class="cate">
+                    <li><a href="products.html">热卖</a> <span>(15)</span></li>
+                    <li><a href="products.html">男士</a> <span>(16)</span></li>
+                    <ul>
+                        <li><a href="products.html">配饰</a> <span>(2)</span></li>
+                        <li><a href="products.html">外套和夹克</a> <span>(5)</span></li>
+                        <li><a href="products.html">牛仔裤</a> <span>(1)</span></li>
+                        <li><a href="products.html">新品</a> <span>(0)</span></li>
+                        <li><a href="products.html">套装</a> <span>(1)</span></li>
+                        <li><a href="products.html">休闲衫</a> <span>(0)</span></li>
+                    </ul>
+                    <li><a href="products.html">打折</a> <span>(15)</span></li>
+                    <li><a href="products.html">女士</a> <span>(15)</span></li>
+                    <ul>
+                        <li><a href="products.html">配置</a> <span>(2)</span></li>
+                        <li><a href="products.html">新品</a> <span>(0)</span></li>
+                        <li><a href="products.html">连衣裙</a> <span>(1)</span></li>
+                        <li><a href="products.html">休闲衫</a> <span>(0)</span></li>
+                        <li><a href="products.html">短裙</a> <span>(4)</span></li>
+                    </ul>
+                </ul>
+            </div>
+            <div class="new-products animated wow slideInUp" data-wow-delay=".5s">
+                <h3>新品</h3>
+                <div class="new-products-grids">
+                    <div class="new-products-grid">
+                        <div class="new-products-grid-left">
+                            <a href="single.html"><img src="resource/images/6.jpg" alt=" " class="img-responsive"/></a>
+                        </div>
+                        <div class="new-products-grid-right">
+                            <h4><a href="single.html">壁灯</a></h4>
+                            <div class="rating">
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="simpleCart_shelfItem new-products-grid-right-add-cart">
+                                <p><span class="item_price">￥180</span><a class="item_add" href="#">加入购物车</a></p>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="new-products-grid">
+                        <div class="new-products-grid-left">
+                            <a href="single.html"><img src="resource/images/26.jpg" alt=" " class="img-responsive"/></a>
+                        </div>
+                        <div class="new-products-grid-right">
+                            <h4><a href="single.html">小西装</a></h4>
+                            <div class="rating">
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="simpleCart_shelfItem new-products-grid-right-add-cart">
+                                <p><span class="item_price">￥250</span><a class="item_add" href="#">加入购物车</a></p>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="new-products-grid">
+                        <div class="new-products-grid-left">
+                            <a href="single.html"><img src="resource/images/11.jpg" alt=" " class="img-responsive"/></a>
+                        </div>
+                        <div class="new-products-grid-right">
+                            <h4><a href="single.html">石质脚链</a></h4>
+                            <div class="rating">
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="rating-left">
+                                    <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="simpleCart_shelfItem new-products-grid-right-add-cart">
+                                <p><span class="item_price">￥259</span><a class="item_add" href="#">加入购物车</a></p>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="men-position animated wow slideInUp" data-wow-delay=".5s">
+                <a href="single.html"><img src="resource/images/27.jpg" alt=" " class="img-responsive"/></a>
+                <div class="men-position-pos">
+                    <h4>夏季新品</h4>
+                    <h5><span>55%</span> 大幅折扣 </h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8 products-right">
+            <div class="products-right-grid">
+                <div class="products-right-grids-position animated wow slideInRight" data-wow-delay=".5s">
+                    <img src="resource/images/18.jpg" alt=" " class="img-responsive"/>
+                    <div class="products-right-grids-position1">
+                        <h4>2018 新品</h4>
+                        <p>
+                            时装是色彩交织的传说，是梦幻中的魅惑，是巴黎塞纳河上永不停止的古典音乐，与现代钢筋水泥的混合体。高雅的、神秘的、另类的。主题、风格、倾向、贵族、民间，无数种声音都在试图从不同角度解释时装美的源泉。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="products-right-grids-bottom">
+                <div class="col-md-4 products-right-grids-bottom-grid">
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/19.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">商务衬衫</a></h4>
+                        <p>品质上乘，质地细腻。</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥325</i> <span class="item_price">￥250</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/21.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">精品布艺鞋</a></h4>
+                        <p>工艺精良，品质上乘。</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>$325</i> <span class="item_price">￥250</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/24.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">休闲夹克</a></h4>
+                        <p>韩版修身，气质俱佳。</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥585</i> <span class="item_price">￥489</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 products-right-grids-bottom-grid">
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/7.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">Quick View</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">女士夹克</a></h4>
+                        <p>棕色女士夹克</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥280</i> <span class="item_price">￥250</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/22.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">高脚皮鞋</a></h4>
+                        <p>无缝拼接技术吗，一体成型</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥500</i> <span class="item_price">￥480</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/25.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">夹克</a></h4>
+                        <p>无袖夹克，西服款式</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥585</i> <span class="item_price">￥489</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 products-right-grids-bottom-grid">
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/20.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">蓝色衬衫</a></h4>
+                        <p>立体剪裁，舒适有型。</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥305</i> <span class="item_price">￥280</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/23.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">男士帆布鞋</a></h4>
+                        <p>匠心独运，值得收藏。</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥389</i> <span class="item_price">￥299</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="new-collections-grid1 products-right-grid1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="new-collections-grid1-image">
+                            <a href="single.html" class="product-image"><img src="resource/images/26.jpg" alt=" "
+                                                                             class="img-responsive"></a>
+                            <div class="new-collections-grid1-image-pos products-right-grids-pos">
+                                <a href="single.html">详情预览</a>
+                            </div>
+                            <div class="new-collections-grid1-right products-right-grids-pos-right">
+                                <div class="rating">
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/2.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="rating-left">
+                                        <img src="resource/images/1.png" alt=" " class="img-responsive">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4><a href="single.html">西服套装</a></h4>
+                        <p>浅灰色的外观尽显青春，亚麻质感。</p>
+                        <div class="simpleCart_shelfItem products-right-grid1-add-cart">
+                            <p><i>￥585</i> <span class="item_price">￥489</span><a class="item_add" href="#">加入购物车</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <nav class="numbering animated wow slideInRight" data-wow-delay=".5s">
+                <ul class="pagination paging">
+                    <li>
+                        <a href="#" aria-label="Previous">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    </li>
+                    <li class="active"><a href="#">1<span class="sr-only">(current)</span></a></li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li><a href="#">4</a></li>
+                    <li><a href="#">5</a></li>
+                    <li>
+                        <a href="#" aria-label="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+<!-- //breadcrumbs -->
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+        <div class="footer-grids">
+        </div>
+        <div class="footer-logo animated wow slideInUp" data-wow-delay=".5s">
+            <h2><a href="index.html">Best Store <span>shop anywhere</span></a></h2>
+        </div>
+        <div class="copy-right animated wow slideInUp" data-wow-delay=".5s">
+            <p>Copyright &copy; 2018. Sunxm Zhejiang Sci-Tech University</p>
+        </div>
+    </div>
+</div>
+<!-- //footer -->
+</body>
+</html>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TheWebGL</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content="Best Store"/>
+    <script type="application/x-javascript">
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <link href="resource/css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="resource/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+    <script src="resource/js/jquery.min.js"></script>
+    <!-- cart -->
+    <script src="resource/js/simpleCart.min.js"></script>
+    <!-- for bootstrap working -->
+    <script type="text/javascript" src="resource/js/bootstrap-3.1.1.min.js"></script>
+    <!-- //for bootstrap working -->
+    <link href='resource/css/font.css' rel='stylesheet' type='text/css'>
+    <link href='resource/css/font1.css' rel='stylesheet' type='text/css'>
+    <!-- timer -->
+    <link rel="stylesheet" href="resource/css/jquery.countdown.css"/>
+    <!-- //timer -->
+    <!-- animation-effect -->
+    <link href="resource/css/animate.min.css" rel="stylesheet">
+    <script src="resource/js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+</head>
+
+<body>
+<!-- header -->
+<div class="header">
+    <div class="container">
+        <div class="header-grid">
+            <div class="header-grid-left animated wow slideInLeft" data-wow-delay=".5s">
+                <ul>
+                    <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mail.html">邮箱</a></li>
+                    <li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+1234 567 890</li>
+                    <li><i class="glyphicon glyphicon-log-in" aria-hidden="true"></i><a href="login.html">登陆</a></li>
+                    <li><i class="glyphicon glyphicon-book" aria-hidden="true"></i><a href="register.html">注册</a></li>
+                </ul>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="logo-nav">
+            <div class="logo-nav-left animated wow zoomIn" data-wow-delay=".5s">
+                <h1><a href="index.html">Best Store <span>Shop anywhere</span></a></h1>
+            </div>
+            <div class="logo-nav-left1">
+                <nav class="navbar navbar-default">
+                    <div class="navbar-header nav_2">
+                        <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse"
+                                data-target="#bs-megadropdown-tabs">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="index.html" class="act">主页</a></li>
+                            <!-- Mega Menu -->
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">商品<b class="caret"></b></a>
+                                <ul class="dropdown-menu multi-column columns-3">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>男士</h6>
+                                                <li><a href="products.html">服装</a></li>
+                                                <li><a href="products.html">钱包</a></li>
+                                                <li><a href="products.html">鞋子</a></li>
+                                                <li><a href="products.html">腕表</a></li>
+                                                <li><a href="products.html">饰品</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>女士</h6>
+                                                <li><a href="products.html">服装</a></li>
+                                                <li><a href="products.html">钱包</a></li>
+                                                <li><a href="products.html">鞋子</a></li>
+                                                <li><a href="products.html">腕表</a></li>
+                                                <li><a href="products.html">饰品</a></li>
+                                                <li><a href="products.html">珠宝</a></li>
+                                                <li><a href="products.html">美容、护理</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>儿童</h6>
+                                                <li><a href="products.html">家庭风</a></li>
+                                                <li><a href="products.html">男生服饰</a></li>
+                                                <li><a href="products.html">女生服饰</a></li>
+                                                <li><a href="products.html">鞋子</a></li>
+                                                <li><a href="products.html">名牌店</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">家具<b class="caret"></b></a>
+                                <ul class="dropdown-menu multi-column columns-3">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>家装家具</h6>
+                                                <li><a href="furniture.html">炊具</a></li>
+                                                <li><a href="furniture.html">沙发</a></li>
+                                                <li><a href="furniture.html">餐桌</a></li>
+                                                <li><a href="furniture.html">鞋柜</a></li>
+                                                <li><a href="furniture.html">家居服饰</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>办公室家具</h6>
+                                                <li><a href="furniture.html">地毯</a></li>
+                                                <li><a href="furniture.html">办公桌</a></li>
+                                                <li><a href="furniture.html">沙发</a></li>
+                                                <li><a href="furniture.html">鞋柜</a></li>
+                                                <li><a href="furniture.html">插座</a></li>
+                                                <li><a href="furniture.html">电动装备</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="multi-column-dropdown">
+                                                <h6>装饰</h6>
+                                                <li><a href="furniture.html">玩具</a></li>
+                                                <li><a href="furniture.html">壁钟</a></li>
+                                                <li><a href="furniture.html">灯具</a></li>
+                                                <li><a href="furniture.html">品牌商店</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </ul>
+                            </li>
+                            <li><a href="mail.html">联系我们</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div class="logo-nav-right">
+                <div class="search-box">
+                    <div id="sb-search" class="sb-search">
+                        <form>
+                            <input class="sb-search-input" placeholder="输入关键词..." type="search" id="search">
+                            <input class="sb-search-submit" type="submit" value="">
+                            <span class="sb-icon-search"> </span>
+                        </form>
+                    </div>
+                </div>
+                <!-- search-scripts -->
+                <script src="resource/js/classie.js"></script>
+                <script src="resource/js/uisearch.js"></script>
+                <script>
+                    new UISearch(document.getElementById('sb-search'));
+                </script>
+                <!-- //search-scripts -->
+            </div>
+            <div class="header-right">
+                <div class="cart box_1">
+                    <a href="checkout.html">
+                        <h3>
+                            <div class="total">
+                                <!--<span class="simpleCart_total"></span> -->
+                                (<span id="simpleCart_quantity" class="simpleCart_quantity"></span> 件)
+                            </div>
+                            <img src="resource/images/bag.png" alt=""/>
+                        </h3>
+                    </a>
+                    <p><a href="javascript:;" class="simpleCart_empty">清空购物车</a></p>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!-- //header -->
+<!-- breadcrumbs -->
+<div class="breadcrumbs">
+    <div class="container">
+        <ol class="breadcrumb breadcrumb1 animated wow slideInLeft" data-wow-delay=".5s">
+            <li><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>主页</a></li>
+            <li class="active">登陆</li>
+        </ol>
+    </div>
+</div>
+<!-- //breadcrumbs -->
+<!-- login -->
+<div class="login">
+    <div class="container">
+        <h3 class="animated wow zoomIn" data-wow-delay=".5s">登陆</h3>
+        <p class="est animated wow zoomIn" data-wow-delay=".5s">请使用邮箱及密码登录！</p>
+        <div class="login-form-grids animated wow slideInUp" data-wow-delay=".5s">
+            <form action="LoginServlet" method="post">
+                <input type="email" name="email" placeholder="邮箱" required=" ">
+                <input type="password" name="password" placeholder="密码" required=" ">
+                <div class="forgot">
+                    <a href="register.html">Forgot Password?</a>
+                </div>
+                <input type="submit" value="登陆">
+            </form>
+        </div>
+        <h4 class="animated wow slideInUp" data-wow-delay=".5s">未注册账号</h4>
+        <p class="animated wow slideInUp" data-wow-delay=".5s"><a href="register.html">前往注册</a> 或者 返回
+            <a href="index.html">主页<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p>
+    </div>
+</div>
+<!-- //login -->
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+        <div class="footer-grids">
+            <div class="footer-logo animated wow slideInUp" data-wow-delay=".5s">
+                <h2><a href="index.html">Best Store <span>shop anywhere</span></a></h2>
+            </div>
+            <div class="copy-right animated wow slideInUp" data-wow-delay=".5s">
+                <p>Copyright &copy; 2018. Sunxm Zhejiang Sci-Tech University</p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

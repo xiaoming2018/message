@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbfee47c-5de1-4967-9f0c-ea85e60720ca" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/js/uisearch.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/js/wow.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/css/layui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/css/layui.mobile.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/css/modules/code.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/css/modules/laydate/default/laydate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/css/modules/layer/default/icon-ext.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/15.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/17.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/18.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/19.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/20.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/21.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/22.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/23.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/24.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/25.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/26.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/27.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/28.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/29.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/44.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/45.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/46.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/47.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/48.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/49.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/5.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/51.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/52.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/53.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/54.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/55.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/56.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/57.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/58.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/images/face/9.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/code.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/element.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/flow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/laydate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/layedit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/layer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/laypage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/laytpl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/mobile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/table.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/tree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/resource/layui/lay/modules/upload.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/Detector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/GPUComputationRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/GPUParticleSystem.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/Gyroscope.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/ImprovedNoise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/MD2Character.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/MD2CharacterComplex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/MarchingCubes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/MorphAnimMesh.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/MorphBlendMesh.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/Ocean.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/Octree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/PRNG.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/ParametricGeometries.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/QuickHull.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/RollerCoaster.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/FirstPersonControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/FlyControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/OrbitControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/OrthographicTrackballControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/PointerLockControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/TrackballControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/TransformControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/controls/VRControls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/crossfade/gui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/crossfade/scenes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/crossfade/transition.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/curves/NURBSCurve.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/curves/NURBSSurface.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/curves/NURBSUtils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/effects/AnaglyphEffect.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/effects/AsciiEffect.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/ammo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/dat.gui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/gunzip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/inflate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/jszip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/mmdparser.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/msgpack-js.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/o3dgc.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/opentype.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/stats.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/system.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/timeliner_gui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/libs/tween.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/lights/RectAreaLightUniformsLib.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/3MFLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/AMFLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/MD2Loader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/MMDLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/MTLLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/NRRDLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/NodeMaterialLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/OBJLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/OBJLoader2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/PCDLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/PDBLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/PLYLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/PRWMLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/PVRLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/PlayCanvasLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/RGBELoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/STLLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/SVGLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/draco/draco_decoder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/draco/draco_decoder.wasm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/draco/draco_wasm_wrapper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/SEA3D.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/SEA3DDeflate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/SEA3DLZMA.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/SEA3DLegacy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/SEA3DLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/o3dgc/SEA3DGC.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/physics/SEA3DAmmo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/physics/SEA3DAmmoLoader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/loaders/sea3d/physics/SEA3DRigidBody.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/math/ColorConverter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/math/Lut.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/modifiers/BufferSubdivisionModifier.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/modifiers/ExplodeModifier.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/CameraNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/ColorsNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/LightNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/NormalNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/PositionNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/ReflectNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/ScreenUVNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/accessors/UVNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/ColorNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/CubeTextureNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/FloatNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/IntNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/Matrix3Node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/Matrix4Node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/ReflectorNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/inputs/ScreenNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/BumpNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/ColorAdjustmentNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/JoinNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/LuminanceNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/NoiseNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/NormalMapNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/ResolutionNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/RoughnessToBlinnExponentNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/SwitchNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/TimerNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/UVTransformNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/nodes/utils/VelocityNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/objects/Lensflare.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/objects/Reflector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/objects/ReflectorRTT.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/objects/Refractor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/OutlinePass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/RenderPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/SAOPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/SMAAPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/SSAARenderPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/SSAOPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/SavePass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/ShaderPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/TAARenderPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/TexturePass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/postprocessing/UnrealBloomPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/CSS2DRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/CSS3DRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/CanvasRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/Projector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/RaytracingRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/RaytracingWorker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/SVGRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/SoftwareRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/renderers/WebGLDeferredRenderer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/BasicShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/BleachBypassShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/BlendShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/BokehShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/BokehShader2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/BrightnessContrastShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/ColorCorrectionShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/ColorifyShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/ConvolutionShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/CopyShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/DOFMipMapShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/DepthLimitedBlurShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/OceanShaders.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/ParallaxShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/PixelShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/RGBShiftShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/SAOShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/SMAAShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/SSAOShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/SepiaShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/SobelOperatorShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/TechnicolorShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/ToneMapShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/TriangleBlurShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/UnpackDepthRGBAShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/VerticalBlurShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/VerticalTiltShiftShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/js/shaders/VignetteShader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/fbx/024.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/fbx/025.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/fbx/028.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/fbx/030.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/obj/Female.obj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/obj/canzhuo.obj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/obj/canzhuo2.obj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/obj/canzhuo3.obj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/obj/canzhuo4.obj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/obj/hometrain.obj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/texture/110.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/texture/111.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/texture/112.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/texture/113.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/texture/114.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/out/artifacts/theWebGL_Web_exploded/webgl_resource/models/texture/116.jpg" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\reposity_hz" />
+        <option name="mavenHome" value="D:/Server" />
+        <option name="userSettingsFile" value="D:\Server\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Chrome OS</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Bean Validation issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Markdown</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="theWebGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/theWebGL_war_exploded/WEB-INF/classes/WebContent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Application" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.43" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\Program Files\Java\jdk1.8.0_111\jre">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/WebContent/WEB-INF/lib">
+          <settings>
+            <option name="CONTEXT_PATH" value="/index.html" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_theWebGL_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56008" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="56009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfee47c-5de1-4967-9f0c-ea85e60720ca" name="Default" comment="" />
+      <created>1525856120821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525856120821</updated>
+      <workItem from="1525856131213" duration="791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="791000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>theWebGL:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|theWebGL</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>theWebGL</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
