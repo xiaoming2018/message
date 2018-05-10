@@ -75,7 +75,7 @@ function initLight() {
     scene.add(amlight);
 
     light = new THREE.SpotLight(0xFFFFFF, 1);
-    light.position.set(0, 10, 10);
+    light.position.set(2, 10, 10);
     light.castShadow = true;
     light.shadowMapHeight = 2048;
     light.shadowMapWidth = 2048;

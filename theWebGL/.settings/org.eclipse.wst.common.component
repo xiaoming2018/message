@@ -2,7 +2,7 @@
     <wb-module deploy-name="theWebGL">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="theWebGL"/>
         <property name="java-output-path" value="/theWebGL/build/classes"/>
+        <property name="context-root" value="theWebGL"/>
     </wb-module>
 </project-modules>

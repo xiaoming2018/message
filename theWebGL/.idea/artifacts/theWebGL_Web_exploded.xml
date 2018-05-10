@@ -6,7 +6,10 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="theWebGL" />
-          <element id="library" level="project" name="theWebGL" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.7-bin.jar" module-name="theWebGL" />
         </element>
       </element>
     </root>
